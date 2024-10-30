@@ -1,0 +1,619 @@
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'Renzo Anicama',
+  broadcast: false,
+  messageTimestamp: 1730245590,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Virtual',
+  from: '120363198772643961@g.us',
+  pushName: 'Renzo Anicama',
+  broadcast: false,
+  messageTimestamp: 1730245590,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 87 2c 26 d8 fe 4f ea 21 1d 22 d2 c7 5e 2a 05 e4 e5 80 0a 5e 68 ff fa 63 3b 3f 44 13 ed 76 91 c8>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Qué tipo de modalidad prefieren para las capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'Renzo Anicama',
+  broadcast: false,
+  messageTimestamp: 1730245590,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935841138@s.whatsapp.net',
+    fromMe: false,
+    id: '3D2B49C573BE730D645FF30743459317',
+    participant: undefined
+  },
+  messageTimestamp: 1730245599,
+  pushName: 'Yhael',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Yhael',
+  body: 'Hola',
+  from: '51935841138'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5a0819e4-0c80-4060-9f55-d56cfece54ec',
+  keyword: 'key_e490d7d2-7684-47b1-9b7c-367710514fa9',
+  answer: '🙌 Hola Bienvenido, Soy *YHASEB* el *Chatbot* 🤖 de *SISCAMCHACCHA* estare para apoyarlo🤝',
+  options: {
+    media: 'https://i.imgur.com/WTXaDCk.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ce74338a642dcc1c7e6d9a418bfe30c2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03b116d2-ea33-4890-a4e0-98a431ec336c',
+  keyword: 'ans_5a0819e4-0c80-4060-9f55-d56cfece54ec',
+  answer: 'En esta oportunidad le ayudare con su compra y le brindare informacion de nuestros servicios; Dime cual desea??👇.\n' +
+    '👨‍💻 *Informacion.   1️⃣*  Para enviarle el link de pagina y revise nuestros productos y servicios.\n' +
+    '🛒 *Productos.     2️⃣*   Para ver la lista de productos y marcas que trabajamos.\n' +
+    '👷 *Instalacion.   3️⃣*  Conocer precios de instalacion. (los precios son aprox)\n' +
+    '🛠️ *Mantenimiento. 4️⃣*  Registrar un mantenimiento o consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c4e707d293b65b52e59180d99dff3ec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935841138@s.whatsapp.net',
+    fromMe: false,
+    id: '9C06138300589498CC8AC769A1996418',
+    participant: undefined
+  },
+  messageTimestamp: 1730245607,
+  pushName: 'Yhael',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '51935841138'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8d5f3836-77be-4b79-82f4-6f1af08f8ecb',
+  keyword: 'key_de255e46-6db1-4ee9-86bd-45377e017b3e',
+  answer: '👷 la instalacion dependera de la altura que se ubicara la camara y tambien la distancia que estara entre en dvr/nvr y la camara\n' +
+    '[mas de 15 mts] S/60.00 soles por camara (*precio aprox.*)\n' +
+    '[mas de 25 mts] S/80.00 soles por camara (*precio aprox.*)\n' +
+    '[de 50 a 80 mts] S/100.00 soles por camara (*precio aprox.*)\n' +
+    'los precios mencionados solo son de mano de obra mas no de accesorios de instalacion\n' +
+    '\n' +
+    '*2* CONTACTAR CON UN ASESOR 👨‍💻o volver al menu principal escribir *hola* , *volver* , *atras*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a35b3e763bc460d5d2bc93af7e2f5ce'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51935841138@s.whatsapp.net',
+    fromMe: false,
+    id: 'B243632044F88A90262F60AD5596E6FE',
+    participant: undefined
+  },
+  messageTimestamp: 1730245611,
+  pushName: 'Yhael',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '51935841138'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_800af64d-86d2-423f-96c6-2c276ea8e208',
+  keyword: 'key_1f002b9e-2615-4c67-98ce-752ecbb6cc02',
+  answer: 'Bien entes de comunicarle con un asesor porfavor brindame sus datos *DNI*, *NOMBRES* Y *DIRECCION*; espere un momento, ahora le comunico con un asesor humano 👨‍💻 espero haberle ayudado 🤖',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'aa468714df244d8d340824d5a10f65e3'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'Ronaldinho Q°',
+  broadcast: false,
+  messageTimestamp: 1730245684,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'Franklin Sosa',
+  broadcast: false,
+  messageTimestamp: 1730245689,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A23AF93E1FC2D32466D',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Virtual',
+  from: '120363198772643961@g.us',
+  pushName: 'Franklin Sosa',
+  broadcast: false,
+  messageTimestamp: 1730245692,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 87 2c 26 d8 fe 4f ea 21 1d 22 d2 c7 5e 2a 05 e4 e5 80 0a 5e 68 ff fa 63 3b 3f 44 13 ed 76 91 c8>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Qué tipo de modalidad prefieren para las capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A845900D91E75F327EC',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'Franklin Sosa',
+  broadcast: false,
+  messageTimestamp: 1730245700,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51975352708@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0068714F10218574A35',
+    participant: undefined
+  },
+  messageTimestamp: 1730245935,
+  pushName: 'Fk Sistem',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'gracias',
+  from: '51975352708'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_540b0629-f733-407a-b4d3-4c00b5216e5b',
+  keyword: 'key_3de41fca-e264-445b-9cc5-bfb6ecb69c58',
+  answer: 'Espero haberle ayudado, tenga un buen dia  *RECUERDA QUE ESTAMOS PARA AYUDARLE Y BRINDARLE LOS SERVICIOS DE CALIDAD PARA EL CUIDADO DE UD Y SU FAMILIA*🤝',
+  options: {
+    media: 'https://i.imgur.com/rtEJ35t.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1f59845dd519976f5e690812a2d0afbc'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A23AF93E1FC2D32466D',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Virtual',
+  from: '120363198772643961@g.us',
+  pushName: 'Colli Runa Tours',
+  broadcast: false,
+  messageTimestamp: 1730246043,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 87 2c 26 d8 fe 4f ea 21 1d 22 d2 c7 5e 2a 05 e4 e5 80 0a 5e 68 ff fa 63 3b 3f 44 13 ed 76 91 c8>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Qué tipo de modalidad prefieren para las capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A845900D91E75F327EC',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'Colli Runa Tours',
+  broadcast: false,
+  messageTimestamp: 1730246044,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A845900D91E75F327EC',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'Jose Gutierrez',
+  broadcast: false,
+  messageTimestamp: 1730246157,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'RAEL VARGAS',
+  broadcast: false,
+  messageTimestamp: 1730246268,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A23AF93E1FC2D32466D',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Virtual',
+  from: '120363198772643961@g.us',
+  pushName: 'RAEL VARGAS',
+  broadcast: false,
+  messageTimestamp: 1730246269,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 87 2c 26 d8 fe 4f ea 21 1d 22 d2 c7 5e 2a 05 e4 e5 80 0a 5e 68 ff fa 63 3b 3f 44 13 ed 76 91 c8>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Qué tipo de modalidad prefieren para las capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'Iván Cardenas',
+  broadcast: false,
+  messageTimestamp: 1730246322,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A845900D91E75F327EC',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'JHENS ROJAS',
+  broadcast: false,
+  messageTimestamp: 1730246345,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3AC16FB19662BBEF561C',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Viernes',
+  from: '120363198772643961@g.us',
+  pushName: 'Brica',
+  broadcast: false,
+  messageTimestamp: 1730246500,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a3 e7 94 d3 8f f1 ac da 36 7f 66 5b a5 cf 16 b0 a4 71 20 11 fb 13 7f 10 08 4a 1f ae 90 2b 44 53>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: 'Comunidad: ¿qué día prefieren capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A23AF93E1FC2D32466D',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Virtual',
+  from: '120363198772643961@g.us',
+  pushName: 'Brica',
+  broadcast: false,
+  messageTimestamp: 1730246501,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 87 2c 26 d8 fe 4f ea 21 1d 22 d2 c7 5e 2a 05 e4 e5 80 0a 5e 68 ff fa 63 3b 3f 44 13 ed 76 91 c8>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Qué tipo de modalidad prefieren para las capacitaciones?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363198772643961@g.us',
+    fromMe: false,
+    id: '3A845900D91E75F327EC',
+    participant: '51904336987@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Por la noche',
+  from: '120363198772643961@g.us',
+  pushName: 'Brica',
+  broadcast: false,
+  messageTimestamp: 1730246504,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer b3 7c 47 8f e7 90 de 77 29 87 3a 94 6f 1c c4 b3 dc f8 bb 70 61 36 d1 66 f6 87 32 3e d1 a8 c1 5f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '¿Horarios de preferencia?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
